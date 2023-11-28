@@ -5,6 +5,4 @@ Este es el link de la web oficial de Kali --->  https://www.kali.org/get-kali/#k
 Dentro verás varias opciones para poder descargartelos, yo te recomiendo Máquinas Virtuales, dentro de la misma tendrás que elegir como lo quieres, yo en este caso usé VirtualBox
 Igualmente en este mismo repositorio está el archivo de esa misma ruta
 
-En la Máquina Virtual:
-
--tendrás un ambiente aislado, 
+En la Máquina Virtual, tendrás un ambiente aislado, por lo que no le pasará nada a tu PC.
